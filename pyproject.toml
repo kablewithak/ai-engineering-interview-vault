@@ -1,0 +1,14 @@
+﻿[project]
+name = "ai-engineering-interview-vault"
+version = "0.1.0"
+description = "Public-facing AI engineering learning, interview, and production-transfer vault."
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["snippets"]
+python_files = ["test_*.py", "*_test.py"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
