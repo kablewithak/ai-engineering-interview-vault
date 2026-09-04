@@ -3,15 +3,18 @@
 ## Metadata
 
 - Date:
-- Roadmap week:
+- Roadmap phase:
+- Phase workstream or gate:
 - Session title:
+- Session type:
 - Source material:
-- Current level:
+- Current level / evidence state:
 - Available time:
 - Purpose:
 - Related concepts:
 - Related snippets:
 - Related interview-bank files:
+- Related Lab evidence:
 
 ## 1. Learning Objectives
 
@@ -25,6 +28,8 @@ Categories:
 - Evaluation/debugging skill
 - Business/application insight
 
+For a pure diagnostic/control session, replace teaching objectives with the exact capabilities or gates being measured. Do not teach before the baseline is captured.
+
 ## 2. Pre-Test Before Teaching
 
 Questions asked before explanation:
@@ -37,6 +42,8 @@ Questions asked before explanation:
 6.
 7.
 8.
+
+For diagnostic sessions, these questions are baseline evidence. Do not repair answers mid-baseline and count the repaired attempt as the original result.
 
 ## 3. My Raw Attempt Summary
 
@@ -76,6 +83,8 @@ Counterexample:
 
 Production AI engineering example:
 
+For a diagnostic-only session, complete this section only after baseline capture and grading.
+
 ## 6. Code / Implementation Pattern
 
 ```python
@@ -101,6 +110,8 @@ Eval/observability requirement:
 Security/privacy risk:
 
 Implementation task:
+
+Related `ai-consultancy-lab` evidence:
 
 ## 8. Interview Bank Additions
 
@@ -227,7 +238,7 @@ Apply/build:
 
 - `snippets/...`
 
-## 13. Mastery Score
+## 13. Mastery / Baseline Score
 
 | Area | Score / 100 | Evidence |
 |---|---:|---|
@@ -238,9 +249,21 @@ Apply/build:
 | Transfer to real projects |  |  |
 | Simple explanation |  |  |
 
-Next highest-leverage study action:
+Evidence label:
 
-## 14. Public Non-Claims
+- Observed capability / Prior evidence / Unassessed
+
+Next highest-leverage study or diagnostic action:
+
+## 14. Gate / Session Closeout
+
+- Gate exercised:
+- Pass / hold / remediation state:
+- Failure taxonomy, if applicable:
+- Evidence references:
+- Next gate:
+
+## 15. Public Non-Claims
 
 This session does not prove:
 
